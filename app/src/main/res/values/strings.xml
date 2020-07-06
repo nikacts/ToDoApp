@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="empty_not_saved">TodoItem not saved because it is empty.</string>
+</resources>
